@@ -1,0 +1,36 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2001-2016, Python Software Foundation
+# This file is distributed under the same license as the Python package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Python 3.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-02 22:11+0200\n"
+"PO-Revision-Date: 2017-09-24 20:06+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../Doc/library/allos.rst:5
+msgid "Generic Operating System Services"
+msgstr "Services génériques du système d'exploitation"
+
+#: ../Doc/library/allos.rst:7
+msgid ""
+"The modules described in this chapter provide interfaces to operating system "
+"features that are available on (almost) all operating systems, such as files "
+"and a clock.  The interfaces are generally modeled after the Unix or C "
+"interfaces, but they are available on most other systems as well.  Here's an "
+"overview:"
+msgstr ""
+"Les modules documentés dans ce chapitre fournissent des interfaces vers des "
+"fonctionalités communes à la grande majorité des systèmes d'explotation, "
+"telles que les fichiers et l'horloge.  Bien que ces interfaces soient "
+"classiquement calquées sur les interfaces Unix ou C, elles sont aussi "
+"disponnibles sur la pluspart des autres sytèmes. En voici un aperçu."

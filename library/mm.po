@@ -1,0 +1,32 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2001-2016, Python Software Foundation
+# This file is distributed under the same license as the Python package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Python 3.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-02 22:11+0200\n"
+"PO-Revision-Date: 2017-09-24 21:42+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../Doc/library/mm.rst:5
+msgid "Multimedia Services"
+msgstr "Services Multimedia"
+
+#: ../Doc/library/mm.rst:7
+msgid ""
+"The modules described in this chapter implement various algorithms or "
+"interfaces that are mainly useful for multimedia applications.  They are "
+"available at the discretion of the installation.  Here's an overview:"
+msgstr ""
+"Les modules documentés dans ce chapitre implémentent divers algorithmes ou "
+"interfaces principalement utiles pour les applications multimédia. Ils "
+"peuvent ne pas être disponnibles sur votre installation. En voici un aperçu :"

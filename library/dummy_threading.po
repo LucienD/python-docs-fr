@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2001-2016, Python Software Foundation
+# This file is distributed under the same license as the Python package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Python 3.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-02 22:11+0200\n"
+"PO-Revision-Date: 2017-11-28 13:57+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../Doc/library/dummy_threading.rst:2
+msgid ""
+":mod:`dummy_threading` --- Drop-in replacement for the :mod:`threading` "
+"module"
+msgstr ""
+":mod:`dummy_threading` --- Module de substitution au module :mod:`threading`"
+
+#: ../Doc/library/dummy_threading.rst:7
+msgid "**Source code:** :source:`Lib/dummy_threading.py`"
+msgstr "**Code source :** :source:`Lib/dummy_threading.py`"
+
+#: ../Doc/library/dummy_threading.rst:11
+msgid ""
+"This module provides a duplicate interface to the :mod:`threading` module.  "
+"It is meant to be imported when the :mod:`_thread` module is not provided on "
+"a platform."
+msgstr ""
+"Ce module fournit un duplicat de l'interface du module :mod:`threading`. Son "
+"but est d'être importé lorsque le module :mod:`_thread` n'est pas fournit "
+"par la plateforme."
+
+#: ../Doc/library/dummy_threading.rst:15
+msgid "Suggested usage is::"
+msgstr "Utilisation suggérée : "
+
+#: ../Doc/library/dummy_threading.rst:22
+msgid ""
+"Be careful to not use this module where deadlock might occur from a thread "
+"being created that blocks waiting for another thread to be created.  This "
+"often occurs with blocking I/O."
+msgstr ""
+"Soyez prudent de ne pas utiliser ce module lorsqu'un deadlock peut se "
+"produire à partir d'un fil d'exécution en cours de création qui bloque en "
+"attentant qu'un autre fil d'exécution soit créé. Cela se produit souvent "
+"avec des I/O bloquants."

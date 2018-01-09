@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2001-2016, Python Software Foundation
+# This file is distributed under the same license as the Python package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Python 3.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-10 00:49+0200\n"
+"PO-Revision-Date: 2017-11-08 20:04+0100\n"
+"Last-Translator: Julien Palard <julien@palard.fr>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../Doc/library/undoc.rst:5
+msgid "Undocumented Modules"
+msgstr "Modules non Documentés"
+
+#: ../Doc/library/undoc.rst:7
+msgid ""
+"Here's a quick listing of modules that are currently undocumented, but that "
+"should be documented.  Feel free to contribute documentation for them!  "
+"(Send via email to docs@python.org.)"
+msgstr ""
+"Voici un rapide survol des modules actuellement non documentés, mais qui "
+"devraient l'être. N'hésitez pas à contribuer à leur documentation ! (En "
+"anglais, par email, à docs@python.org.)"
+
+#: ../Doc/library/undoc.rst:11
+msgid ""
+"The idea and original contents for this chapter were taken from a posting by "
+"Fredrik Lundh; the specific contents of this chapter have been substantially "
+"revised."
+msgstr ""
+"L'idée de lister les modules à documenter vient d'un message de Fredrik "
+"Lundh. Depuis, le contenu de ce chapitre à pu être mis à jour."
+
+#: ../Doc/library/undoc.rst:17
+msgid "Platform specific modules"
+msgstr "Modules spécifiques à une plateforme"
+
+#: ../Doc/library/undoc.rst:19
+msgid ""
+"These modules are used to implement the :mod:`os.path` module, and are not "
+"documented beyond this mention.  There's little need to document these."
+msgstr ""
+"Ces modules sont utilisés pour implémenter le module :mod:`os.path`, et "
+"n'ont pas plus de documentation. Le besoin de les documenter ne se fait pas "
+"réelement sentir."
+
+#: ../Doc/library/undoc.rst:23
+msgid ":mod:`ntpath`"
+msgstr ":mod:`ntpath`"
+
+#: ../Doc/library/undoc.rst:23
+msgid "--- Implementation of :mod:`os.path` on Win32 and Win64 platforms."
+msgstr ""
+"--- Implémentation de :mod:`os.path` pour les plateformes Win32 et Win64."
+
+#: ../Doc/library/undoc.rst:25
+msgid ":mod:`posixpath`"
+msgstr ":mod:`posixpath`"
+
+#: ../Doc/library/undoc.rst:26
+msgid "--- Implementation of :mod:`os.path` on POSIX."
+msgstr "--- Implementation du module :mod:`os.path` pour les systèmes POSIX."

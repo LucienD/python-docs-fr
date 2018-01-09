@@ -1,0 +1,35 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2001-2016, Python Software Foundation
+# This file is distributed under the same license as the Python package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Python 3.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-02 22:11+0200\n"
+"PO-Revision-Date: 2017-10-18 09:21+0200\n"
+"Last-Translator: Julien Palard <julien@palard.fr>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../Doc/c-api/index.rst:5
+msgid "Python/C API Reference Manual"
+msgstr "Manuel de Référence de l'API Python/c"
+
+#: ../Doc/c-api/index.rst:7
+msgid ""
+"This manual documents the API used by C and C++ programmers who want to "
+"write extension modules or embed Python.  It is a companion to :ref:"
+"`extending-index`, which describes the general principles of extension "
+"writing but does not document the API functions in detail."
+msgstr ""
+"C'est la documentation de l'API utilisée par les développeurs C et C++ "
+"écrivant des modules d'extension ou intégrant Python. Elle va de pair avec :"
+"ref:`extending-index`, qui décrit les principes généraux de l'écriture "
+"d'extensions, mais ne rentre pas dans les détails de chaque fonction de "
+"l'API."
